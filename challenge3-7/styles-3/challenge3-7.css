@@ -1,0 +1,82 @@
+body {
+background-color:rgb(240,240,240);
+text-align: center;
+width: 100%;
+}
+main {
+    box-shadow: 3px 5px 0 0 rgb(211,211,211);
+background-color: white;
+padding: 0.3% 0% 0.3% 0%;
+margin-left: 15%;
+margin-right: 15%;
+margin-bottom:10px;
+border-bottom-left-radius:12.5px;
+border-bottom-right-radius: 12.5px;
+}
+
+div {
+    box-shadow: 3px 5px 0 0 rgb(211,211,211);
+    background-color: white;
+    padding: 10px 80px  10px 10px;
+     margin-left: 5%;
+    margin-right: 5%;
+    margin-top:1px;
+    margin-bottom:90%;
+    border-radius:12.5px;
+    }
+h1 {
+    font-family: Arial;
+    font-size: medium;
+    padding-bottom: 10px;
+    padding-top:10px;
+}
+    input,label {
+     margin-right: 900px;
+     width: 890px;
+     height: 20px; 
+     font-family: Arial;
+    }
+input {
+    border-color: rgba(228, 228, 228, 0.5);
+    border-style:solid;
+    border-radius: 5px ;
+    border-width: none;
+}
+button {
+width: 80px;
+padding: 5px 8px 5px 8px;
+background-color: rgb(0,123,252);
+color:#def5ff ;
+border-radius:5px;
+border-color: white;
+border-width: none;
+margin-right:743px;
+font-family: Arial;
+font-size: smaller;
+font-weight: bold;
+margin-top: 19px;
+}
+
+table,td,th {
+padding-top: 10px;
+padding-bottom: 10px;
+margin: 0 auto;
+border: 1px  solid rgba(241, 241, 241, 0.712);
+width: 700px;
+border-collapse: collapse;
+}
+
+th {
+background-color: rgb(0,122,255);
+color: rgb(222, 245, 255);
+font-family:Arial;
+}
+
+tr {
+background-color: rgb(255,255,255);
+color: rgb(83, 85, 88);
+font-family:Arial;
+}
+
+
+
